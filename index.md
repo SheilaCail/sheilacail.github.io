@@ -1,4 +1,8 @@
 ---
+theme: minima
+---
+
+---
 layout: home
 ---
 # workshop-demo
